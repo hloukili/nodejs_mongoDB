@@ -2,4 +2,4 @@
 
 #execute script file :
 
-node <filename>.js 
+node filename.js 
